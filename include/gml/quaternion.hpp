@@ -15,6 +15,7 @@
 #include <string>
 #endif
 #include <tuple>
+#include <algorithm>
 
 #include "vec.hpp"
 
